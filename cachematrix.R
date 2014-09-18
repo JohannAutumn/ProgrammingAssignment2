@@ -1,4 +1,4 @@
-## <-TODO overall explanation
+## A pair of functions to cache the inverse of a matrix
 
 ## This function creates a matrix object that can cache
 ## the matrix's inverse
